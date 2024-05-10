@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Meron Kedir</h1>
-<h3 align="center">A passionate Front developer from Ethiopia experienced with React JS and Tailwind Framework!</h3>
+<h3 align="center">A passionate Front-End developer from Ethiopia experienced with React JS and Tailwind Framework!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meron-kedir&label=Profile%20views&color=0e75b6&style=flat" alt="meron-kedir" /> </p>
 
